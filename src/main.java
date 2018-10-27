@@ -13,7 +13,7 @@ public class main {
 
     public static int metoda(String y, int wiek) {
         System.out.println("y: " + y);
-        System.out.println("masz " +wiek);
+        System.out.println("masz " +wiek+ " lat");
         y = "Ela";
         System.out.println("y: " + y);
         return 0;
